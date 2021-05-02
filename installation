@@ -1,5 +1,0 @@
-# hammer4916
-Installation of hammer using hammer4916 in following commands
-
-$ apt update && apt upgrade && apt install git zip python python2 -y && git clone https://github.com/VRANMP/hammer4916.git && cd
-$ cd hammer4916 && ls && unzip hammer.zip && cd hammer && ls
